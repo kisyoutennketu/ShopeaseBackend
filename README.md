@@ -1,8 +1,10 @@
 # Shopease
+こちらはBackendのリポジトリになります。  
 ショッピングサイトをyoutubeや記事、Github等を参考にしながら作成いたしました。  
 至らぬ点多々あるかと思われますが、見ていただけますと幸いです。 
 ## URL
-
+・Deployしたサイト:　https://e-commerce-24-12-04-frontend-cz54.vercel.app/  
+・Frontendのリポジトリ:　https://github.com/kisyoutennketu/ShopeaseFrontend
 # 使用技術
 ・Frontend: React.js, Redux, Tailwind CSS, Axios  
 ・Backend: Spring Boot, Spring Security, Spring Data JPA  
