@@ -4,7 +4,7 @@
 至らぬ点多々あるかと思われますが、見ていただけますと幸いです。 
 ## URL
 ・Deployしたサイト:　https://e-commerce-24-12-04-frontend-cz54.vercel.app/  
-![Test Image 6](https://github.com/kisyoutennketu/ShopeaseFrontend/blob/main/src/assets/img/EC-site-image.jpg)  
+![Test Image 6](https://github.com/kisyoutennketu/ShopeaseFrontend/blob/main/src/assets/img/ECsite-top.jpg)   
 ※DBがvercelの無料枠のため、最初の読み込みに1分ほど掛かる場合がございます。申し訳ございません。  
   
 ・Frontendのリポジトリ:　https://github.com/kisyoutennketu/ShopeaseFrontend
